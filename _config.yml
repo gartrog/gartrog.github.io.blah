@@ -1,0 +1,24 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+theme: jekyll-theme-cayman
+
+# Name of your site (displayed in the header)
+name: Nicolas Morange
+
+# Short bio or description (displayed in the header)
+description: Particle Physicist / Geek / Clarinet Player
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars0.githubusercontent.com/u/10640884?s=460&v=4
+
+#
+# Flags below are optional
+#
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
